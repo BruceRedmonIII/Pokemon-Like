@@ -1,0 +1,12 @@
+﻿  ClassPracticeUsingPokemonConcept.cpp
+C:\Users\zak\source\repos\ClassPracticeUsingPokemonConcept\ClassPracticeUsingPokemonConcept\ClassPracticeUsingPokemonConcept.cpp(69,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MainCharacter.cpp
+  Monster.cpp
+  MonsterMove.cpp
+  MonsterTrainer.cpp
+  Generating code
+  25 of 171 functions (14.6%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ClassPracticeUsingPokemonConcept.vcxproj -> C:\Users\zak\source\repos\ClassPracticeUsingPokemonConcept\x64\Release\ClassPracticeUsingPokemonConcept.exe
